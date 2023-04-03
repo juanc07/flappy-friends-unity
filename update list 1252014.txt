@@ -1,0 +1,24 @@
+Here's our update for mario game
+
+list of updates:
+
+* created new level grounds
+* character controls
+* added new enemy
+* added new background in game level
+* added new bricks blank bricks
+* added new bricks item bricks
+* brick with item now
+* mushroom shows when brick is hit
+* brick will change look when there's no more item
+* mushroom can be collected but there's no effect right now
+* added some props like grass
+* crate can rotate now unlike before
+* mario always run now
+* update textures
+* added temp preloader
+* added temp title screen
+
+that's all, please feel free to comment or suggest or ask question.
+
+Cheers!

@@ -1,0 +1,38 @@
+product name: Slappy Bird 3d
+com.gigadrillgames.slappybird3d
+1.0.4
+5
+gplay: 170759445644
+leaderboard
+CgkIjLm5kPwEEAIQBg
+
+rate: market://details?id=" + "com.gigadrillgames.slappybird3d
+//old
+flurry: RXV2295S37XDMRT4XWN5
+//new slappy bird 3d
+flurry analytics- JYGGVNGH9XXJ943DQGHT
+
+
+
+
+Floppy Cow 3d
+com.gigadrillgames.floppycow3d
+1.0.1
+1
+
+gplay: 460618393314
+com.gigadrillgames.floppycow3d
+leaderboard:  CgkI4s3797MNEAIQBg
+
+rate: market://details?id=" + "com.gigadrillgames.floppycow3d
+
+flurry: 55KS9X92J7Y4JN4SF5G2
+
+
+flappy friends
+package:com.monsterpatties.fluffyfriends
+g+: 101157695035
+leaderboard: CgkIu9zf6_gCEAIQBg
+	
+
+

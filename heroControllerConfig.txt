@@ -1,0 +1,19 @@
+speed = 0
+jump speed = 6
+jump height = 10
+jump duration = 80
+run max speed = 10
+walk max speed = 4
+acceleration = 4
+friction =  30
+air acceleration = 3
+deceleration time = 1
+gravity = 20
+brick rebound = 1.5
+wall slide speed = 3
+wall jump power = 800
+max wall jump speed = 20
+wall slide smoothing = 20
+hitDelay = 1
+
+

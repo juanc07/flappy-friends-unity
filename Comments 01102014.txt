@@ -1,0 +1,6 @@
+always run
+change outfit when got fire powerups
+show green button when you have powerup like fire powerup
+continue using picking up and throwing crates
+reaching portal at the end of every level
+allow the crates to rotate
